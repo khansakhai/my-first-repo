@@ -5,3 +5,5 @@ NPM : 2306152462
 Kelas : PBP C
 
 Hobi : Merajut
+
+Jurusan : Ilmu Komputer
